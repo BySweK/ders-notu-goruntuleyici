@@ -1,4 +1,4 @@
-\# Kullanıcıdan Alınan Verilerin Grafiğe Aktarılması
+\# ders-notu-goruntuleyici
 
 
 

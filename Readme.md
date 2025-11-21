@@ -70,7 +70,7 @@ Grafik otomatik olarak gösterilecektir.
 
 \### Örnek Grafik
 
-!\[Grafik Örneği](grafik.png)
+[![Grafik Örneği](grafik.png)](grafik.png)
 
 
 
